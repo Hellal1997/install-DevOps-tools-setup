@@ -1,5 +1,7 @@
 # DevOps Tool Installer/Uninstaller 🚀
 
+<img width="535" alt="Q" src="https://miro.medium.com/v2/resize:fit:437/1*_eJaw96xLBR-xEzlwbTOyw.png">
+
 ## Features
 
 - **User-Friendly Interface**: Interactive terminal menus for selecting installation or uninstallation actions on Windows.
